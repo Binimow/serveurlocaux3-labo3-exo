@@ -1,0 +1,1 @@
+Le script hello.bat permet d'effacer l'écran puis d'écrire "Bonjour monde!" 
